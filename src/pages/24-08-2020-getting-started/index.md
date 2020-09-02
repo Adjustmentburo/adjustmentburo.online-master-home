@@ -1,5 +1,5 @@
 ---
-path: "/hello-world"
+path: "/Intro"
 date: 2020-08-24T17:12:33.962Z
 title: "My First Gatsby Post"
 ---
